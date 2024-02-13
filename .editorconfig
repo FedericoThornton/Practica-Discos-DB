@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0017: Simplificar la inicialización de objetos
+dotnet_style_object_initializer = true
